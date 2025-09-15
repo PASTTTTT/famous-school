@@ -1,0 +1,418 @@
+*{
+    font-size: 25px;
+}
+body{
+    background-color: #D6DAC8;
+}
+.navbar{
+    background-color: #9CAFAA;
+    overflow: hidden;
+}
+.khon{
+    color: #9CAFAA;
+}
+.navbar a{
+    float: left;
+    color: blue;
+    text-align: center;
+    padding: 30px 30px;
+    text-decoration: none;
+    font-size: 22px;
+}
+.navbar a:hover{
+    color: crimson;
+}
+.navbar a:active{
+    color: dodgerblue;
+}
+.Head{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.yap{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.pic1{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.HighHead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 80px;
+}
+.highyap{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.mwit{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.MWITimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 100px;
+}
+.mwitbody{
+    text-align: center;
+}
+.tuhead{
+     margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.tuimage{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.tuyap{
+    text-align: center;
+}
+.rosehead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.roseimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.rosebody{
+    text-align: center;
+}
+.hatyaihead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.hatyaiimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.hatyaibody{
+    text-align: center;
+}
+.samsenhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.samsenimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.samsenbody{
+    text-align: center;
+}
+.bunyawathead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.bunyawatimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.bunyawatbody{
+    text-align: center;
+}
+.Bodinhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Bodinimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Bodinbody{
+    text-align: center;
+}
+.Patumwanhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Patumwanimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Patumwanbody{
+    text-align: center;
+}
+.Debhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Debimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Debbody{
+    text-align: center;
+}
+.Kanarathead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Kanaratimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Kanaratbody{
+    text-align: center;
+}
+.UniHead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 80px;
+}
+.uniyap{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.mwit2head{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.mwit2img{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.mwit2body{
+    text-align: center;
+}
+.Chulahead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Chulaimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Chulabody{
+    text-align: center;
+}
+.Maihead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Maiimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Maibody{
+    text-align: center;
+}
+.Kasethead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Kasetimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Kasetbody{
+    text-align: center;
+}
+.Thamhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Thamimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Thambody{
+    text-align: center;
+}
+.skhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.skimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.skbody{
+    text-align: center;
+}
+.kkhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.kkimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.kkbody{
+    text-align: center;
+}
+.asianhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.asianimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.asianbody{
+    text-align: center;
+}
+.Ramkhead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.Ramkimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.Ramkbody{
+    text-align: center;
+}
+.KMUTThead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.KMUTTimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.KMUTTbody{
+    text-align: center;
+}
+.AboutHead{
+        margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 80px;
+}
+.aboutbody{
+    text-align: center;
+}
+.Aboutcheek{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 80px;
+}
+.Aboutbombas{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 80px;
+}
+
+
+
