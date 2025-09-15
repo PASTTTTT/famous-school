@@ -258,7 +258,7 @@ body{
     margin-right: 10px;
     text-align: center;
 }
-.Chulabody{
+.Chulayap{
     text-align: center;
 }
 .Maihead{
@@ -413,6 +413,19 @@ body{
     text-align: center;
     font-size: 80px;
 }
-
-
-
+.mwithschead{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.mwithscimg{
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+.mwithscbody{
+    text-align: center;
+}
